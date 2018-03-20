@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    ["../../../src", {
+      "css": "#id && {{{css}}}",
+      "injectGlobal": "* {{{css}}}"
+    }]
+  ]
+}
